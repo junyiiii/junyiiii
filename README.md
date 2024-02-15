@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+- 👋I'm Jun Yi, currently studying Information Systems at Singapore Management University
+- 🌱I'm always interested in learning more!
+- 💻Currently looking for internships in the web development sector
+- 📫Do feel free to reach out to me at junyipostbox@gmail.com
 
 <!--
 **junyiiii/junyiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
