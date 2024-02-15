@@ -1,7 +1,7 @@
 ### Hi!
 - 👋I'm Jun Yi, currently studying Information Systems at Singapore Management University
 - 🌱I'm always interested in learning more!
-- 💻Currently looking for internships in the web development sector
+- 💻Currently looking for internships in web development
 - 📫Do feel free to reach out to me at junyipostbox@gmail.com
 
 <!--
