@@ -2,7 +2,7 @@
 - 👋I'm Jun Yi, currently studying Information Systems at Singapore Management University
 - 🌱I'm always interested in learning more!
 - 💻Currently looking for internships in Product Development and Management
-- 📫Do feel free to reach out to me at junyipostbox@gmail.com
+- 📫Do feel free to reach out to me at junyilow02@gmail.com
 
 <!--
 **junyiiii/junyiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
