@@ -1,7 +1,6 @@
 ### Hi!
-- 👋I'm Jun Yi, currently studying Information Systems at Singapore Management University
+- 👋I'm Jun Yi, a fresh graduate Information Systems student from Singapore Management University
 - 🌱I'm always interested in learning more!
-- 💻Currently looking for internships in Product Development and Management
 - 📫Do feel free to reach out to me at junyilow02@gmail.com
 
 <!--
